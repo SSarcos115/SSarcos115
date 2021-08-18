@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SSarcos115
-- 👀 I’m interested in HTML, CSS, Javascript, and Node.js
+- 👀 I’m interested in HTML, CSS, Javascript, and React.js
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on not sure yet
 - 📫 How to reach me bastians12@gmail.com
