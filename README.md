@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sebastian
 - 👀 I am comfortable with HTML and CSS and I have a good grasp of Javascript
 - 🌱 I’m currently learning Javascript Frameworks
-- 📫 How to reach me bastians12@gmail.com
+- 📫 How to reach me sarcos.sebastian@yahoo.com
 
 <!---
 SSarcos115/SSarcos115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
