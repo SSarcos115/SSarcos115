@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sebastian
 - 👀 I am comfortable with HTML and CSS and I have a good grasp of Javascript
-- 🌱 I’m currently learning Javascript Frameworks
+- 🌱 I’m currently learning React
 - 📫 How to reach me sarcos.sebastian@yahoo.com
 
 <!---
